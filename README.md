@@ -14,7 +14,7 @@ Once you have SLOBS downloaded, you’ll notice that it’s largely an app geare
 
 ![Output settings](/images/output-settings.png)
 
-The first thing we’ll do within SLOBS is tweak some settings. On Mac, press `Cmd+,` (command and comma) to open the settings pane. Head to “Output” on the sidebar. Switch to `Advanced` mode using the dropdown at the top. The important settings to change here is `Audio Track` to “2”, and `Encoder` to whatever hardware encoder your computer has. Look at the screenshot above for an example of my configuration. If you do not have a hardware encoder in your computer, you may select software encoding. This will come with a noticeable performance hit, meaning that even running the Zoom client may become an issue. If this is your configuration, it’s a good idea to have a different person or computer hosting the Zoom session.
+The first thing we’ll do within SLOBS is tweak some settings. On Mac, press `Cmd + ,` (command and comma) to open the settings pane. Head to “Output” on the sidebar. Switch to `Advanced` mode using the dropdown at the top. The important settings to change here is `Audio Track` to “2”, and `Encoder` to whatever hardware encoder your computer has. Look at the screenshot above for an example of my configuration. If you do not have a hardware encoder in your computer, you may select software encoding. This will come with a noticeable performance hit, meaning that even running the Zoom client may become an issue. If this is your configuration, it’s a good idea to have a different person or computer hosting the Zoom session.
 
 *Note: Your computer’s hardware encoder can either be a part of your CPU or GPU. Intel CPUs may call it QSV (Quick Sync Video), while Nvidia GPUs have NVENC (Nvidia Encoder).*
 
