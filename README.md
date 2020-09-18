@@ -6,7 +6,7 @@
 
 Streamlabs’ version of the open-source OBS (Open Broadcaster Software) is both better and worse than the original. It retains much of the same functionality, with a number of added features (and a couple lost ones). It can be downloaded from [Streamlabs’ website](https://streamlabs.com/streamlabs-obs).
 
-*Note: OBS itself is not yet at a 1.0 release, and therefore neither is SLOBS. I’ve been using version 0.23.4 on my Mac.*
+***Disclaimer:*** *OBS itself is not yet at a 1.0 release, and therefore neither is SLOBS. I’ve been using version 0.23.4 on my Mac. In other words, this product is not finished nor considered stable. That goes for this entire setup. If things break, restarting components — including your computer — can help, but it also possible that there are fundamental issues which cannot be solved.*
 
 Once you have SLOBS downloaded, you’ll notice that it’s largely an app geared towards streaming on platforms such as Twitch. That’s fine — and even useful if you ever do want to do an event in that way — but not the focus of this guide. Go ahead and click through any intro/tutorial that the app provides — feel free to ignore or pay attention.
 
@@ -34,7 +34,7 @@ Now it's time to actually "import" the content that we'll be sending to Zoom. I 
 
 ![Folder structure example](/images/screening-materials.png)
 
-Another important step prior to actually importing is assembling your files. I'll usually make a folder within my project folder called "Screening materials". I'll place all of my video files — which are ideally in H264 to make things easy on my encoder — as well as any title cards all in one folder with unique filenames. You can see an example from a past talk above.
+Another important step prior to actually importing is assembling your files. I'll usually make a folder within my project folder called "Screening materials". I'll place all of my video files — which are ideally in the H264 codec to make things easy on my encoder — as well as any title cards all in one folder with unique filenames. You can see an example from a past talk above.
 
 ![Manage projects](/images/manage-projects.png)
 
