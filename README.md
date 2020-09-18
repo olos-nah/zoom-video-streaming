@@ -38,7 +38,7 @@ Another important step prior to actually importing is assembling your files. I'l
 
 ![Manage projects](/images/manage-projects.png)
 
-Once that's done, we can head back to SLOBS and get started adding our media. We want to start with a blank slate. In case SLOBS has created any pre-formatted stuff and just as a best practice, we'll make a new project for each event. To do that, click on the little dropdown next to `Scenes`, shown on the main SLOBS panel. Then click on `Manage All`. (See above screenshot for guidance.) This panel shows us all of the projects (or "Scene Collections", as SLOBS calls them) that we have. Go ahead and delete all of the pre-created ones, and then create a new one. Give it a descriptive name, then go ahead and double-click on it to open.
+Once that's done, we can head back to SLOBS and get started adding our media. We want to start with a blank slate. In case SLOBS has created any pre-formatted stuff and as a best practice, we'll make a new project for each event. To do that, click on the little dropdown next to `Scenes`, shown on the main SLOBS panel. Then click on `Manage All`. (See above screenshot for guidance.) This panel shows us all of the projects (or `Scene Collections`, as SLOBS calls them) that we have. Go ahead and delete all of the pre-created ones, and then create a new one. Give it a descriptive name, then go ahead and double-click on it to open.
 
 ### Adding media
 
