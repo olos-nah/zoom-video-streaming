@@ -50,9 +50,9 @@ The first thing we'll do to import some media is rename the auto-created scene (
 
 ![Add source](/images/add-source.png)
 
-Now, click the + icon to add a source, highlighted in the above screenshot. Double-click on `Media Source`, located in the second column of options. Feel free to name the source, though this is optional. You'll now be taken to the properties pane for this source. Click on `Browse` next to the blank path field. Select your desired file and hit enter. Back in the properties pane, you can now tweak the available settings. If you're playing large files (longer than 10 minutes/higher than 1080p quality), select the `Close file when inactive` option. Now click `Done` to finish adding your source.
+Now, click the `+` icon to add a source, highlighted in the above screenshot. Double-click on `Media Source`, located in the second column of options. Feel free to name the source, though this is optional. You'll now be taken to the properties pane for this source. Click on `Browse` next to the blank path field. Select your desired file and hit enter. Back in the properties pane, you can now tweak the available settings. If you're playing large files (longer than 10 minutes/higher than 1080p quality), select the `Close file when inactive` option. Now click `Done` to finish adding your source.
 
-Repeat this process by adding a new scene (using the equivalent + button in that panel) and then a source within that scene. Do this for all the media you'd like to stream. Note that when you add further "Media Sources", you will need to select `Add a new source instead` when prompted by SLOBS.
+Repeat this process by adding a new scene (using the equivalent `+` button in that panel) and then a source within that scene. Do this for all the media you'd like to stream. Note that when you add further "Media Sources", you will need to select `Add a new source instead` when prompted by SLOBS.
 
 ### Enabling audio within SLOBS
 
